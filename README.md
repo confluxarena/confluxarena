@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,30:38A1D8,70:63B4E0,100:121212&height=220&section=header&text=CONFLUX%20ARENA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Ultimate%20Blockchain%20Challenge%20Arena&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38A1D8,100:63B4E0&height=220&section=header&text=CONFLUX%20ARENA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Ultimate%20Blockchain%20Challenge%20Arena&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
@@ -147,5 +147,5 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,30:38A1D8,70:63B4E0,100:121212&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38A1D8,100:63B4E0&height=120&section=footer" width="100%"/>
 </p>
