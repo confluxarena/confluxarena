@@ -26,7 +26,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | Product | Description | Link |
 |:--------|:------------|:-----|
 | **Quest Arena** | 30+ quest types with on-chain verification | [/arena](https://confluxarena.org/arena) |
-| **Demo Trading** | CFX/USDT0 trading simulator, up to 50x leverage | [/trading](https://confluxarena.org/trading) |
+| **Demo Trading** | CFX/USDT0 simulator, up to 50x leverage, weekly competitions | [/trading](https://confluxarena.org/trading) |
 | **Predictions** | Weekly CFX price prediction game with prize pools | [/predictions](https://confluxarena.org/predictions) |
 | **NFT Rewards** | Gasless ERC-721 claims with ECDSA signatures | [/nft](https://confluxarena.org/nft) |
 | **Learn & Earn** | Blockchain education with XP rewards | [/learn](https://confluxarena.org/learn) |
@@ -53,9 +53,9 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 
 ## Trading & Predictions
 
-- **Demo trading** — $1,000 virtual balance, long/short positions, TP/SL orders, weekly competitions
+- **Demo trading** — CFX/USDT0 pair, $1,000 virtual balance, long/short positions, TP/SL orders, weekly competitions
 - **Up to 50x leverage** — with automatic liquidation at maintenance margin
-- **Price predictions** — LONG/SHORT on CFX price, 1h to 1w timeframes, XP rewards
+- **Price predictions** — LONG/SHORT on CFX/USDT0 price, 1h to 1w timeframes, XP rewards
 - **Leaderboards** — separate rankings for trading PnL, prediction accuracy, quest XP
 
 ## Platform
