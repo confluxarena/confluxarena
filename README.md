@@ -16,9 +16,77 @@
 
 ## About
 
-Conflux Arena is a quest and gamification platform on [Conflux eSpace](https://confluxnetwork.org) blockchain. Users connect wallets, complete on-chain and social quests, earn XP, compete on leaderboards, and claim NFT rewards.
+Conflux Arena is a Web3 platform on [Conflux eSpace](https://confluxnetwork.org) where users complete quests, earn XP, climb tier-based leaderboards (Bronze to Diamond), and claim gasless NFT rewards. Projects use it to launch verifiable on-chain engagement campaigns — no bots, no fake activity.
 
-Projects launch quests to grow their communities with verifiable on-chain engagement — no bots, no fake activity.
+The platform also includes a B2B escrow marketplace ([PayFi](https://confluxarena.org/payfi)), demo trading, price predictions, and an AI-powered assistant — all running on one codebase.
+
+---
+
+## Products
+
+| Product | Description | Link |
+|:--------|:------------|:-----|
+| **Quest Arena** | 30+ quest types with on-chain verification | [/arena](https://confluxarena.org/arena) |
+| **PayFi Marketplace** | B2B escrow marketplace with stablecoin settlement | [/payfi](https://confluxarena.org/payfi) |
+| **Demo Trading** | CFX/USDT0 trading simulator, up to 50x leverage | [/trading](https://confluxarena.org/trading) |
+| **Predictions** | Weekly CFX price prediction game with prize pools | [/predictions](https://confluxarena.org/predictions) |
+| **NFT Rewards** | Gasless ERC-721 claims with ECDSA signatures | [/nft](https://confluxarena.org/nft) |
+| **Learn & Earn** | Blockchain education with XP rewards | [/learn](https://confluxarena.org/learn) |
+| **Docs** | Full platform documentation for users and projects | [/docs](https://confluxarena.org/docs) |
+
+---
+
+## Quest System
+
+- **30+ quest types** — social (Twitter, Telegram, Discord), DeFi (swap, hold, stake, LP), NFT, quiz, referral
+- **On-chain verification** — DeFi and NFT quests verified via RPC and ConfluxScan, no manual review
+- **Quest gating** — access control by token balance, NFT ownership, level, or staking position
+- **Campaigns** — group quests into campaigns with shared progress tracking
+- **AI quest editor** — generate quests from natural language descriptions
+- **Webhook & API** — projects integrate via webhooks and API keys for automated verification
+
+## PayFi Marketplace
+
+- **Smart contract escrow** — funds locked until order fulfillment, automated release
+- **Stablecoin settlement** — USDT0 payments on Conflux eSpace
+- **Seller & buyer tiers** — reputation system with trust scores and level-based benefits
+- **Dispute resolution** — structured arbitration with on-chain evidence
+- **Store management** — product catalog, categories, invoices, real-time chat
+
+## NFT & Rewards
+
+- **Gasless minting** — platform sponsors gas fees for NFT claims
+- **ECDSA signatures** — backend-signed claims verified by smart contract
+- **Tier system** — Bronze, Silver, Gold, Diamond with escalating rewards
+- **Batch payments** — multi-token (CFX, USDT, USDC, PPI) rewards via smart contract
+- **Referral program** — earn XP for inviting users who complete quests
+
+## Trading & Predictions
+
+- **Demo trading** — $1,000 virtual balance, long/short positions, TP/SL orders, weekly competitions
+- **Up to 50x leverage** — with automatic liquidation at maintenance margin
+- **Price predictions** — LONG/SHORT on CFX price, 1h to 1w timeframes, XP rewards
+- **Leaderboards** — separate rankings for trading PnL, prediction accuracy, quest XP
+
+## Platform
+
+- **Multi-wallet** — MetaMask, Fluent, OKX, WalletConnect (500+ wallets), EIP-6963 discovery
+- **AI assistant** — Claude-powered chat widget with FAQ, notifications, and activity feed
+- **Telegram bot** — community moderation, anti-spam, account linking, quest notifications
+- **Anti-fraud** — duplicate detection, cross-wallet proof matching, IP analysis, bot scoring
+- **Project dashboard** — analytics, quest management, NFT collections, team roles, payment tools
+
+---
+
+## Smart Contracts
+
+| Contract | Description |
+|:---------|:------------|
+| ArenaProjectNFT v1/v2 | ERC-721 with ECDSA claim, paid minting, mint periods |
+| ArenaProjectNFTFactory v1/v2 | Deploy NFT collections per project |
+| ArenaBatchPayment v2 | Multi-token batch rewards (CFX + ERC-20) |
+| PayFiEscrowCore | Escrow logic for B2B marketplace |
+| PayFiQuestClaim | Quest reward claims via escrow |
 
 ---
 
@@ -26,29 +94,26 @@ Projects launch quests to grow their communities with verifiable on-chain engage
 
 | Repository | Description |
 |:-----------|:------------|
-| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest & gamification platform |
+| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, PayFi marketplace, trading, predictions |
 | **[x402-boilerplate](https://github.com/confluxarena/x402-boilerplate)** | x402 protocol — paid AI API with on-chain USDT0 settlement |
-| **[payfi-escrow](https://github.com/confluxarena/payfi-escrow)** | B2B cross-border payment system with smart contract escrow |
-
----
-
-## Features
-
-- **30+ quest types** — social (Twitter, Telegram, Discord), DeFi (swap, hold, stake, LP), NFT, quiz, referral
-- **On-chain verification** — DeFi and NFT quests verified directly on blockchain via RPC and ConfluxScan
-- **NFT rewards** — ERC-721 claims with ECDSA signature verification, paid minting, configurable mint periods
-- **Demo trading** — CFX/USDT0 pair, up to 50x leverage, virtual balance, weekly competitions
-- **Price predictions** — weekly CFX price prediction game with prize pools
-- **Multi-wallet** — MetaMask, Fluent, OKX, WalletConnect (500+ wallets), EIP-6963 provider discovery
-- **Quest gating** — access control by token balance, NFT ownership, level, staking position
-- **Batch payments** — multi-token (CFX, USDT, USDC, PPI) batch rewards via smart contract
-- **Anti-fraud** — duplicate detection, cross-wallet proof matching, IP analysis, bot behavior scoring
 
 ---
 
 ## Built With
 
-`PHP 8.4` · `PostgreSQL 16` · `Solidity` · `Vite 5` · `Tailwind CSS` · `ethers.js 6` · `Redis` · `Cloudflare` · `Node.js 20`
+`PHP 8.4` · `PostgreSQL 16` · `Solidity` · `Vite 5` · `Tailwind CSS` · `ethers.js 6` · `Redis` · `Cloudflare` · `Node.js 20` · `Claude AI`
+
+---
+
+## Roadmap
+
+| Phase | Status | Highlights |
+|:------|:-------|:-----------|
+| Phase 1 | Completed | Core platform, social quests, multi-wallet |
+| Phase 2 | Completed | DeFi quests, on-chain verification, token holdings |
+| Phase 3 | Completed | NFT badges, analytics, referrals, AI assistant, predictions |
+| Phase 4 | Q2 2026+ | ARENA token, staking, KOL leaderboard |
+| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain |
 
 ---
 
