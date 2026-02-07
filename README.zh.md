@@ -48,7 +48,7 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 - **免 Gas 铸造** — 平台赞助 NFT 领取的 Gas 费用
 - **ECDSA 签名** — 后端签名，智能合约验证
 - **等级系统** — 青铜、白银、黄金、钻石，奖励逐级递增
-- **批量支付** — 多代币（CFX、USDT、USDC、PPI）通过智能合约发放奖励
+- **批量支付** — CFX + eSpace 上任意 ERC-20 代币（USDT0、AxCNH、USDT、USDC、PPI 等）通过智能合约发放
 - **推荐计划** — 邀请完成任务的用户可获得 XP 奖励
 
 ## 交易与预测

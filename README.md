@@ -48,7 +48,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 - **Gasless minting** — platform sponsors gas fees for NFT claims
 - **ECDSA signatures** — backend-signed claims verified by smart contract
 - **Tier system** — Bronze, Silver, Gold, Diamond with escalating rewards
-- **Batch payments** — multi-token (CFX, USDT, USDC, PPI) rewards via smart contract
+- **Batch payments** — CFX + any ERC-20 token on eSpace (USDT0, AxCNH, USDT, USDC, PPI, etc.) via smart contract
 - **Referral program** — earn XP for inviting users who complete quests
 
 ## Trading & Predictions
