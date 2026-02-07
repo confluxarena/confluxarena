@@ -97,11 +97,11 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 
 | Phase | Status | Highlights |
 |:------|:-------|:-----------|
-| Phase 1 | Completed | Core platform, social quests, multi-wallet |
-| Phase 2 | Completed | DeFi quests, on-chain verification, token holdings |
-| Phase 3 | Completed | NFT badges, analytics, referrals, AI assistant, predictions |
-| Phase 4 | Q2 2026+ | ARENA token, staking, KOL leaderboard |
-| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain |
+| Phase 1 | Completed | Core platform, social quests, XP system, multi-wallet |
+| Phase 2 | Completed | DeFi quests, on-chain verification, token holdings, testimonials |
+| Phase 3 | Completed | NFT badges, analytics dashboard, referrals, project dashboard, AI assistant, predictions, demo trading |
+| Phase 4 | Q2 2026+ | ARENA token, token-based rewards, staking, KOL leaderboard |
+| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain, advanced quest types |
 
 ---
 
