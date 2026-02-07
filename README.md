@@ -18,7 +18,7 @@
 
 Conflux Arena is a Web3 platform on [Conflux eSpace](https://confluxnetwork.org) where users complete quests, earn XP, climb tier-based leaderboards (Bronze to Diamond), and claim gasless NFT rewards. Projects use it to launch verifiable on-chain engagement campaigns — no bots, no fake activity.
 
-The platform also includes a B2B escrow marketplace ([PayFi](https://confluxarena.org/payfi)), demo trading, price predictions, and an AI-powered assistant — all running on one codebase.
+The platform also includes demo trading, price predictions, and an AI-powered assistant — all running on one codebase.
 
 ---
 
@@ -27,7 +27,6 @@ The platform also includes a B2B escrow marketplace ([PayFi](https://confluxaren
 | Product | Description | Link |
 |:--------|:------------|:-----|
 | **Quest Arena** | 30+ quest types with on-chain verification | [/arena](https://confluxarena.org/arena) |
-| **PayFi Marketplace** | B2B escrow marketplace with stablecoin settlement | [/payfi](https://confluxarena.org/payfi) |
 | **Demo Trading** | CFX/USDT0 trading simulator, up to 50x leverage | [/trading](https://confluxarena.org/trading) |
 | **Predictions** | Weekly CFX price prediction game with prize pools | [/predictions](https://confluxarena.org/predictions) |
 | **NFT Rewards** | Gasless ERC-721 claims with ECDSA signatures | [/nft](https://confluxarena.org/nft) |
@@ -44,14 +43,6 @@ The platform also includes a B2B escrow marketplace ([PayFi](https://confluxaren
 - **Campaigns** — group quests into campaigns with shared progress tracking
 - **AI quest editor** — generate quests from natural language descriptions
 - **Webhook & API** — projects integrate via webhooks and API keys for automated verification
-
-## PayFi Marketplace
-
-- **Smart contract escrow** — funds locked until order fulfillment, automated release
-- **Stablecoin settlement** — USDT0 payments on Conflux eSpace
-- **Seller & buyer tiers** — reputation system with trust scores and level-based benefits
-- **Dispute resolution** — structured arbitration with on-chain evidence
-- **Store management** — product catalog, categories, invoices, real-time chat
 
 ## NFT & Rewards
 
@@ -85,8 +76,6 @@ The platform also includes a B2B escrow marketplace ([PayFi](https://confluxaren
 | ArenaProjectNFT v1/v2 | ERC-721 with ECDSA claim, paid minting, mint periods |
 | ArenaProjectNFTFactory v1/v2 | Deploy NFT collections per project |
 | ArenaBatchPayment v2 | Multi-token batch rewards (CFX + ERC-20) |
-| PayFiEscrowCore | Escrow logic for B2B marketplace |
-| PayFiQuestClaim | Quest reward claims via escrow |
 
 ---
 
@@ -94,7 +83,7 @@ The platform also includes a B2B escrow marketplace ([PayFi](https://confluxaren
 
 | Repository | Description |
 |:-----------|:------------|
-| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, PayFi marketplace, trading, predictions |
+| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, trading, predictions |
 | **[x402-boilerplate](https://github.com/confluxarena/x402-boilerplate)** | x402 protocol — paid AI API with on-chain USDT0 settlement |
 
 ---

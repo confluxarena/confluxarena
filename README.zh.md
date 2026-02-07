@@ -18,7 +18,7 @@
 
 Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 平台。用户完成任务、赚取经验值、通过等级排行榜（青铜到钻石）竞争，并领取免 Gas 的 NFT 奖励。项目方可发布可验证的链上互动活动——杜绝机器人和虚假活动。
 
-平台还包含 B2B 托管市场（[PayFi](https://confluxarena.org/payfi)）、模拟交易、价格预测和 AI 智能助手——全部运行在同一套代码库中。
+平台还包含模拟交易、价格预测和 AI 智能助手——全部运行在同一套代码库中。
 
 ---
 
@@ -27,7 +27,6 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | 产品 | 描述 | 链接 |
 |:-----|:-----|:-----|
 | **任务竞技场** | 30+ 种任务类型，链上验证 | [/arena](https://confluxarena.org/arena) |
-| **PayFi 市场** | B2B 托管市场，稳定币结算 | [/payfi](https://confluxarena.org/payfi) |
 | **模拟交易** | CFX/USDT0 交易模拟器，最高 50 倍杠杆 | [/trading](https://confluxarena.org/trading) |
 | **价格预测** | 每周 CFX 价格预测游戏，设有奖金池 | [/predictions](https://confluxarena.org/predictions) |
 | **NFT 奖励** | 免 Gas 的 ERC-721 领取，ECDSA 签名验证 | [/nft](https://confluxarena.org/nft) |
@@ -44,14 +43,6 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 - **活动系统** — 将任务组合为活动，共享进度追踪
 - **AI 任务编辑器** — 通过自然语言描述生成任务
 - **Webhook 和 API** — 项目方通过 Webhook 和 API 密钥集成自动验证
-
-## PayFi 市场
-
-- **智能合约托管** — 资金锁定至订单完成，自动释放
-- **稳定币结算** — Conflux eSpace 上的 USDT0 支付
-- **卖家与买家等级** — 信誉系统，信任评分和等级权益
-- **争议解决** — 结构化仲裁，链上证据
-- **店铺管理** — 产品目录、分类、发票、实时聊天
 
 ## NFT 和奖励
 
@@ -85,8 +76,6 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | ArenaProjectNFT v1/v2 | ERC-721，ECDSA 领取，付费铸造，铸造周期 |
 | ArenaProjectNFTFactory v1/v2 | 为每个项目部署 NFT 集合 |
 | ArenaBatchPayment v2 | 多代币批量奖励（CFX + ERC-20） |
-| PayFiEscrowCore | B2B 市场托管逻辑 |
-| PayFiQuestClaim | 通过托管领取任务奖励 |
 
 ---
 
@@ -94,7 +83,7 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 
 | 仓库 | 描述 |
 |:-----|:-----|
-| **[confluxarena](https://github.com/confluxarena/confluxarena)** | 任务平台、PayFi 市场、交易、预测 |
+| **[confluxarena](https://github.com/confluxarena/confluxarena)** | 任务平台、交易、预测 |
 | **[x402-boilerplate](https://github.com/confluxarena/x402-boilerplate)** | x402 协议 — 基于链上 USDT0 结算的付费 AI API |
 
 ---
