@@ -9,7 +9,6 @@
 **基于 Conflux eSpace 的 Web3 任务与游戏化平台**
 
 [![Live](https://img.shields.io/badge/状态-在线-brightgreen?style=flat-square)](https://confluxarena.org)
-[![License: MIT](https://img.shields.io/badge/许可证-MIT-blue?style=flat-square)](LICENSE)
 [![Conflux eSpace](https://img.shields.io/badge/网络-Conflux%20eSpace-00BFFF?style=flat-square)](https://confluxnetwork.org)
 
 ---
@@ -117,8 +116,3 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | **YouTube** | [@CONFLUX_ARENA](https://www.youtube.com/@CONFLUX_ARENA) |
 | **邮箱** | hello@confluxarena.org |
 
----
-
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。

@@ -9,7 +9,6 @@
 **Web3 Quest & Gamification Platform on Conflux eSpace**
 
 [![Live](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)](https://confluxarena.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Conflux eSpace](https://img.shields.io/badge/Network-Conflux%20eSpace-00BFFF?style=flat-square)](https://confluxnetwork.org)
 
 ---
@@ -117,8 +116,3 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | **YouTube** | [@CONFLUX_ARENA](https://www.youtube.com/@CONFLUX_ARENA) |
 | **Email** | hello@confluxarena.org |
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
