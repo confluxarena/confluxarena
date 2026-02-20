@@ -82,7 +82,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 
 | Repository | Description |
 |:-----------|:------------|
-| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, trading, predictions |
+| **[confluxarena](https://github.com/confluxarena/confluxarena)** | Web3 quest & gamification platform on Conflux eSpace — blockchain quests, DeFi verification, NFT rewards, demo trading, predictions |
 
 ---
 

@@ -82,7 +82,7 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 
 | 仓库 | 描述 |
 |:-----|:-----|
-| **[confluxarena](https://github.com/confluxarena/confluxarena)** | 任务平台、交易、预测 |
+| **[confluxarena](https://github.com/confluxarena/confluxarena)** | 基于 Conflux eSpace 的 Web3 任务与游戏化平台 — 区块链任务、DeFi 验证、NFT 奖励、模拟交易、预测 |
 
 ---
 
