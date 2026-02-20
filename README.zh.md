@@ -83,7 +83,6 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | 仓库 | 描述 |
 |:-----|:-----|
 | **[confluxarena](https://github.com/confluxarena/confluxarena)** | 任务平台、交易、预测 |
-| **[payfi-escrow](https://github.com/confluxarena/payfi-escrow)** | 多链 B2B 托管协议 — 稳定币商务，争议解决 |
 
 ---
 

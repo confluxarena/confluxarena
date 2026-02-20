@@ -83,7 +83,6 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | Repository | Description |
 |:-----------|:------------|
 | **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, trading, predictions |
-| **[payfi-escrow](https://github.com/confluxarena/payfi-escrow)** | Multichain B2B escrow protocol — stablecoin commerce with dispute resolution |
 
 ---
 
