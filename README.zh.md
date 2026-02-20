@@ -100,7 +100,7 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | 第二阶段 | 已完成 | DeFi 任务、链上验证、代币持有、任务门控、反欺诈系统、用户评价 |
 | 第三阶段 | 已完成 | NFT 徽章、数据分析、推荐系统、项目仪表板、活动系统、批量支付（CFX + ERC-20）、AI 助手、预测、模拟交易、Telegram 机器人、Webhook API |
 | 第四阶段 | 2026 年第二季度+ | ARENA 代币、代币奖励、质押机制、KOL 排行榜、公共 API 和 SDK |
-| 第五阶段 | 未来 | NFT 市场、DAO 治理、跨链任务验证、高级任务类型、AI 任务生成、法币出入金 |
+| 第五阶段 | 未来 | NFT 市场、DAO 治理、跨链任务验证、高级任务类型、AI 任务生成 |
 
 ---
 

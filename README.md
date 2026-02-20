@@ -100,7 +100,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | Phase 2 | Completed | DeFi quests, on-chain verification, token holdings, quest gating, anti-fraud system, testimonials |
 | Phase 3 | Completed | NFT badges, analytics, referrals, project dashboard, campaigns, batch payments (CFX + ERC-20), AI assistant, predictions, demo trading, Telegram bot, webhook API |
 | Phase 4 | Q2 2026+ | ARENA token, token-based rewards, staking, KOL leaderboard, public API & SDK |
-| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain quest verification, advanced quest types, AI quest generation, fiat on/off-ramp |
+| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain quest verification, advanced quest types, AI quest generation |
 
 ---
 
