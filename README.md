@@ -109,7 +109,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | | |
 |:--|:--|
 | **Website** | [confluxarena.org](https://confluxarena.org) |
-| **Twitter** | [@CONFLUX_ARENA](https://x.com/CONFLUX_ARENA) |
+| **Twitter** | [@ARENA_CONFLUX](https://x.com/ARENA_CONFLUX) |
 | **Telegram** | [@confluxarena](https://t.me/confluxarena) |
 | **Medium** | [@confluxarena](https://medium.com/@confluxarena) |
 | **YouTube** | [@CONFLUX_ARENA](https://www.youtube.com/@CONFLUX_ARENA) |
