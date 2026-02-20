@@ -83,7 +83,7 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 | Repository | Description |
 |:-----------|:------------|
 | **[confluxarena](https://github.com/confluxarena/confluxarena)** | Quest platform, trading, predictions |
-| **[x402-boilerplate](https://github.com/confluxarena/x402-boilerplate)** | x402 protocol — paid AI API with on-chain USDT0 settlement |
+| **[payfi-escrow](https://github.com/confluxarena/payfi-escrow)** | Multichain B2B escrow protocol — stablecoin commerce with dispute resolution |
 
 ---
 
@@ -97,11 +97,11 @@ The platform also includes demo trading, price predictions, and an AI-powered as
 
 | Phase | Status | Highlights |
 |:------|:-------|:-----------|
-| Phase 1 | Completed | Core platform, social quests, XP system, multi-wallet |
-| Phase 2 | Completed | DeFi quests, on-chain verification, token holdings, testimonials |
-| Phase 3 | Completed | NFT badges, analytics dashboard, referrals, project dashboard, AI assistant, predictions, demo trading |
-| Phase 4 | Q2 2026+ | ARENA token, token-based rewards, staking, KOL leaderboard |
-| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain, advanced quest types |
+| Phase 1 | Completed | Core platform, social quests (Twitter, Telegram, Discord), XP & tier system, multi-wallet (8 wallets, EIP-6963) |
+| Phase 2 | Completed | DeFi quests, on-chain verification, token holdings, quest gating, anti-fraud system, testimonials |
+| Phase 3 | Completed | NFT badges, analytics, referrals, project dashboard, campaigns, batch payments (CFX + ERC-20), AI assistant, predictions, demo trading, Telegram bot, webhook API |
+| Phase 4 | Q2 2026+ | ARENA token, token-based rewards, staking, KOL leaderboard, PayFi Escrow (B2B stablecoin commerce), multi-chain (Ethereum, Arbitrum, Base), public API & SDK |
+| Phase 5 | Future | NFT marketplace, DAO governance, cross-chain quest verification, advanced quest types, AI quest generation, fiat on/off-ramp |
 
 ---
 

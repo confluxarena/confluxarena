@@ -83,7 +83,7 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | 仓库 | 描述 |
 |:-----|:-----|
 | **[confluxarena](https://github.com/confluxarena/confluxarena)** | 任务平台、交易、预测 |
-| **[x402-boilerplate](https://github.com/confluxarena/x402-boilerplate)** | x402 协议 — 基于链上 USDT0 结算的付费 AI API |
+| **[payfi-escrow](https://github.com/confluxarena/payfi-escrow)** | 多链 B2B 托管协议 — 稳定币商务，争议解决 |
 
 ---
 
@@ -97,11 +97,11 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 
 | 阶段 | 状态 | 亮点 |
 |:-----|:-----|:-----|
-| 第一阶段 | 已完成 | 核心平台、社交任务、XP 系统、多钱包 |
-| 第二阶段 | 已完成 | DeFi 任务、链上验证、代币持有、用户评价 |
-| 第三阶段 | 已完成 | NFT 徽章、数据分析面板、推荐系统、项目仪表板、AI 助手、预测、模拟交易 |
-| 第四阶段 | 2026 年第二季度+ | ARENA 代币、代币奖励、质押机制、KOL 排行榜 |
-| 第五阶段 | 未来 | NFT 市场、DAO 治理、跨链集成、高级任务类型 |
+| 第一阶段 | 已完成 | 核心平台、社交任务（Twitter、Telegram、Discord）、XP 与等级系统、多钱包（8 种钱包、EIP-6963） |
+| 第二阶段 | 已完成 | DeFi 任务、链上验证、代币持有、任务门控、反欺诈系统、用户评价 |
+| 第三阶段 | 已完成 | NFT 徽章、数据分析、推荐系统、项目仪表板、活动系统、批量支付（CFX + ERC-20）、AI 助手、预测、模拟交易、Telegram 机器人、Webhook API |
+| 第四阶段 | 2026 年第二季度+ | ARENA 代币、代币奖励、质押机制、KOL 排行榜、PayFi 托管（B2B 稳定币商务）、多链（Ethereum、Arbitrum、Base）、公共 API 和 SDK |
+| 第五阶段 | 未来 | NFT 市场、DAO 治理、跨链任务验证、高级任务类型、AI 任务生成、法币出入金 |
 
 ---
 
