@@ -109,9 +109,10 @@ Conflux Arena 是基于 [Conflux eSpace](https://confluxnetwork.org) 的 Web3 �
 | | |
 |:--|:--|
 | **官网** | [confluxarena.org](https://confluxarena.org) |
-| **Twitter** | [@ARENA_CONFLUX](https://x.com/ARENA_CONFLUX) |
+| **Twitter** | [@CONFLUX_ARENA](https://x.com/CONFLUX_ARENA) |
 | **Telegram** | [@confluxarena](https://t.me/confluxarena) |
 | **Medium** | [@confluxarena](https://medium.com/@confluxarena) |
 | **YouTube** | [@CONFLUX_ARENA](https://www.youtube.com/@CONFLUX_ARENA) |
+| **DeBank** | [official/CONFLUX_ARENA](https://debank.com/official/CONFLUX_ARENA/) |
 | **邮箱** | hello@confluxarena.org |
 
